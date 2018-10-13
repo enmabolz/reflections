@@ -1,0 +1,41 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helped me watching the differences between both files typing the command
+    on the command prompt. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It helps me to search an older version of the file if the new one has more issues than the older one, therefore, you can restore it at some point and have your older version back and you don't need to code the file again. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros of manually choosing when to create a commit are:
+    -You have the possibility of having your own logical order in saving different versions of a file in order to be
+    more readable when you have to find the older versions.
+    -If you typed on the file a wrong code, the error won't be saved until you decided to do it and the code you don't want to be there, won't be in the file.
+
+    The cons are:
+    -You can forget to create a commit therefore, with no intention to do it, you can have a very confusing and big commit.  
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	They allow saving multiple files because version-control are programming oriented envoirment and we need that knowing that in a program or software project, we need to have that capability due to the quantity of files the project has.	
+   
+
+How can you use the commands git log and git diff to view the history of files?
+
+	We can use git log to watch all the commit we have made and git diff to watch what you have changed between commits. 
+    
+
+How might using version control make you more confident to make changes that
+could break something?
+
+	Using version-control if I commint an error, I have the capability to set up a project before that error was made so we can have the confidece to add whatever you want to a base code without having fear.
+    
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	I want to try to use Git for making my own apps and programs on my computer and to use it when I am making some document. 
